@@ -1,2 +1,2 @@
 #!/bin/bash
-greo bin /etc/passwd
+grep bin /etc/passwd
