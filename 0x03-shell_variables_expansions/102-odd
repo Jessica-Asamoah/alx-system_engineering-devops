@@ -1,2 +1,2 @@
 #!/bin/bash
-command | sed n\;g
+paste - - | cut -f1
