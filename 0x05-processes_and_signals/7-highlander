@@ -1,4 +1,4 @@
-#!/usr/bin/env basg
+#!/usr/bin/env bash
 
 while true
 do
